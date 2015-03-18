@@ -1,0 +1,1 @@
+add all images here to be shared for addons and M3u Master
