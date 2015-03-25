@@ -1,16 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,test3
-http://cdn.phoenix.intergi.com/21772/videos/3392962/video-sd.mp4?hosting_id=21772
 
-#EXTINF:-1,[COLOR yellow]4/03/15[/COLOR]
-
-
-#EXTINF:-1,test
-http://cdn.phoenix.intergi.com/21772/videos/3392967/video-sd.mp4?hosting_id=21772
-
-#EXTINF:-1,test2
-http://cdn.phoenix.intergi.com/21772/videos/3392959/video-sd.mp4
 
 #EXTINF:-1,NEWCASTLE UTD [COLOR red]VS[/COLOR] MAN UTD
 http://cdn.phoenix.intergi.com/21772/videos/3392962/video-sd.mp4?hosting_id=21772
