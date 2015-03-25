@@ -1,0 +1,175 @@
+#EXTM3U
+
+#EXTINF:0,test3
+http://cdn.phoenix.intergi.com/21772/videos/3392962/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,[COLOR yellow]4/03/15[/COLOR]
+
+
+#EXTINF:-1,test
+http://cdn.phoenix.intergi.com/21772/videos/3392967/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,test2
+http://cdn.phoenix.intergi.com/21772/videos/3392959/video-sd.mp4
+
+#EXTINF:-1,NEWCASTLE UTD [COLOR red]VS[/COLOR] MAN UTD
+http://cdn.phoenix.intergi.com/21772/videos/3392962/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,LIVERPOOL [COLOR red]VS[/COLOR] BURNLEY
+http://cdn.phoenix.intergi.com/21772/videos/3392963/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,WEST HAM UTD [COLOR red]VS[/COLOR] CHELSEA
+http://cdn.phoenix.intergi.com/21772/videos/3392957/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,TOTTENHAM HOTSPUR [COLOR red]VS[/COLOR] SWANSEA CITY
+http://cdn.phoenix.intergi.com/21772/videos/3392525/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,QPR [COLOR red]VS[/COLOR] ARSENAL
+http://cdn.phoenix.intergi.com/21772/videos/3392960/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,[COLOR yellow]3/03/15[/COLOR]
+
+#EXTINF:-1,SOUTHAMPTON [COLOR red]VS[/COLOR] CRYSTAL PALACE
+http://cdn.phoenix.intergi.com/21772/videos/3388099/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,HULL CITY [COLOR red]VS[/COLOR] SUNDERLAND
+http://cdn.phoenix.intergi.com/21772/videos/3388151/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,ASTON VILLA [COLOR red]VS[/COLOR] WEST BROM
+http://cdn.phoenix.intergi.com/21772/videos/3388414/video-sd.mp4?hosting_id=21772
+
+
+
+#EXTINF:-1,[COLOR yellow]28/02/15[/COLOR]
+
+#EXTINF:-1,STOKE CITY [COLOR red]VS[/COLOR] HULL CITY
+http://cdn.phoenix.intergi.com/21772/videos/3380414/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,WEST HAM UTD [COLOR red]VS[/COLOR] CRYSTAL PALACE
+http://cdn.phoenix.intergi.com/21772/videos/3380410/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,NEWCASTLE UTD [COLOR red]VS[/COLOR] ASTON VILLA
+http://cdn.phoenix.intergi.com/21772/videos/3380415/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,WEST BROM [COLOR red]VS[/COLOR] SOUTHAMPTON
+http://cdn.phoenix.intergi.com/21772/videos/3380398/video-sd.mp4?ec_seek=48&start=48
+
+
+#EXTINF:-1,BURNLEY [COLOR red]VS[/COLOR] SWANSEA CITY
+http://cdn.phoenix.intergi.com/21772/videos/3380417/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,MAN UTD [COLOR red]VS[/COLOR] SUNDERLAND
+http://cdn.phoenix.intergi.com/21772/videos/3380147/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,[COLOR yellow]29/03/15[/COLOR]
+
+#EXTINF:-1,ARSENAL [COLOR red]VS[/COLOR] EVERTON
+http://cdn.phoenix.intergi.com/21772/videos/3381187/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,LIVERPOOL [COLOR red]VS[/COLOR] MAN CITY
+http://cdn.phoenix.intergi.com/21772/videos/3380875/video-sd.mp4?hosting_id=21772
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,[COLOR red]CARLING CUP FINAL[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/ 
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,CHELSEA [COLOR red]VS[/COLOR] TOTTHENHAM HOTSPUR
+http://cdn.phoenix.intergi.com/21772/videos/3381751/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR red] FL CHAMPIONSHIP[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR yellow]7/03/15[/COLOR]
+
+#EXTINF:-1,CARDIFF CITY [COLOR red]VS[/COLOR] CHARLTON
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QNl5QW7cZ4o&t
+
+#EXTINF:-1,HUDDERSFIELD TOWN [COLOR red]VS[/COLOR] ROTHERHAM
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-Xul4PoThHY
+
+#EXTINF:-1,DERBY COUNTY [COLOR red]VS[/COLOR] BIRMINGHAM CITY
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K9euR4OrfwM
+
+#EXTINF:-1,BLACKPOOL [COLOR red]VS[/COLOR] SHEFFIELD WEDNESDAY
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TQeYsubMhIo
+
+#EXTINF:-1,NOTTINGHAM FOREST [COLOR red]VS[/COLOR] MIDDLESBROUGH
+plugin://plugin.video.youtube/play/?video_id=biEDmD2peyI
+
+#EXTINF:-1,WIGAN ATH [COLOR red]VS[/COLOR] LEEDS UTD
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=w_f8u-FWXAU
+
+#EXTINF:-1,IPSWITCH TOWN [COLOR red]VS[/COLOR] BRENTFORD
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1psSlCu8nEQ
+
+#EXTINF:-1,MILLWALL [COLOR red]VS[/COLOR] NORWICH CITY
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gcRxjv4fxhg
+
+#EXTINF:-1,WOLVES [COLOR red]VS[/COLOR] WATFORD
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mJqPVcWS0S0
+
+#EXTINF:-1,[COLOR yellow]6/03/15[/COLOR]
+
+#EXTINF:-1,FULHAM [COLOR red]VS[/COLOR] BOURNEMOUTH
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RY1U4qy17F8
+
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,[COLOR red]FA CUP[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,BRADFORD CITY [COLOR red]VS[/COLOR] READING
+http://cdn.phoenix.intergi.com/19850/videos/3402201/video-sd.mp4?hosting_id=19850
+
+#EXTINF:-1,ASTON VILLA [COLOR red]VS[/COLOR] WEST BROM
+http://cdn.phoenix.intergi.com/16240/videos/3402646/video-sd.mp4?hosting_id=16240
+
+#EXTINF:-1,LIVERPOOL [COLOR red]VS[/COLOR] BLACKBURN ROVERS
+http://footballtube.streamingbolaget.se/resources/851309-54fca972cd9d6-liverpool-0-0-blackburn-rovers-fa-cup.mp4?px-bps=1305700&px-bufahead=300&co=58664
+
+#EXTINF:-1,MAN UTD [COLOR red]VS[/COLOR] ARSENAL
+http://footballtube.streamingbolaget.se/resources/852167-54fe373828d88-manchester-united-1-2-arsenal-fa-cup.mp4?px-bps=1035100&px-bufahead=300&co=58712
+
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,[COLOR red]CHAMPIONS LEAGUE[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,REAL MADRID [COLOR red]VS[/COLOR] SHALKE
+http://cdn.phoenix.intergi.com/21772/videos/3412947/video-sd.mp4?hosting_id=21772
+
+#EXTINF:-1,FC PORTO [COLOR red]VS[/COLOR] FC BASEL
+http://cdn.phoenix.intergi.com/21772/videos/3413459/video-sd.mp4?hosting_id=21772
+
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,[COLOR red]UFC[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR yellow]*************************************************************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+
+#EXTINF:-1,[COLOR red]THANKS FOR CHECKING OUT MY LIST :-)[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
