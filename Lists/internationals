@@ -1,0 +1,71 @@
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR red]MONEY SPORTS STREAMS[/COLOR]
+https://www.facebook.com/pages/Moneysports-1/771853449596764
+#EXTINF:-1,[COLOR red]LIVE INTERNATIONAL GAMES[/COLOR]
+https://www.facebook.com/pages/Moneysports-1/771853449596764
+ 
+#EXTINF:-1,[COLOR red]*********************************************************************************************************[/COLOR]
+https://www.facebook.com/pages/Moneysports-1/771853449596764
+ 
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",[COLOR red]20.45 eur SPAIN VS UKRAINE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",diema bg
+http://w3.drundoo.com:81/playlist-Diema=6.m3u8
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",futboll 1 ukr ace
+acestream://c5ed2dd6a1842fc6ec04a37227efbb1134a080be
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",irib 3 ir
+rtmp://edge4.live.irib.ir/etv3/irib3-3
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",setanta eurasia
+http://80.77.52.6:4314/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",sky sports 5 uk
+rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",sport tv 1 pt
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1 group-title=" 20.45 eur LIECHT-AUSTRIA ",[COLOR red]20.45 eur LIECHT vs AUSTRIA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur LIECHT-AUSTRIA ",orf 1 au
+rtmp://77.243.11.114:1935/live/orf1.stream
+ 
+#EXTINF:-1 group-title=" 20.45 eur MOLDOVA-SWEDEN ",[COLOR red]20.45 eur MOLDOVA vs SWEDEN[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur MOLDOVA-SWEDEN ",sport tv 3 pt
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur MOLDOVA-SWEDEN ",kanal 5 swe
+http://188.138.9.228:8005
+ 
+#EXTINF:-1 group-title=" 20.45 eur MONTEN-RUSSIA ",[COLOR red]20.45 eur MONTEN vs RUSSIA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur MONTEN-RUSSIA ",russia 1
+http://194.190.78.230/output/russia1/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" 20.45 eur SLOVAK-LUXEMB ",[COLOR red]20.45 eur SLOVAKIA vs LUXEMB[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur SLOVAK-LUXEMB ",futboll 2 ukr ace
+acestream://32e65d794a9667c207f802b63d880e6294aa7f63
+#EXTINF:-1 group-title=" 20.45 eur SLOVAK-LUXEMB ",rtl 2 lux
+rtmp://wowza01.newmedia.lu/channel2/live
+ 
+#EXTINF:-1 group-title=" 20.45 eur SWITZE-ESTONIA ",[COLOR red]20.45 eur SWITZE-ESTONIA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur SWITZE-ESTONIA ",srf 2
+rtmp://77.243.11.114:1935/live/srf2.stream
+#EXTINF:-1 group-title=" 20.45 eur SWITZE-ESTONIA ",etv estonia
+rtmp://193.40.133.138/live/etv
+ 
+#EXTINF:-1 group-title=" 20.45 eur ENGLAND-LITHUANIA ",[COLOR red]20.45 eur ENGLAND-LITHUANIA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur ENGLAND-LITHUANIA ",sport tv 2 pt
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur ENGLAND-LITHUANIA ",itv 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+ 
+#EXTINF:-1 group-title=" 20.45 eur SLOVENIA-S.MARINO ",[COLOR red]20.45 eur SLOVENIA-S.MARINO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur SLOVENIA-S.MARINO ",rtv san marino
+rtmp://194.116.72.52/webtv_live4/0QBXFQ2L0I5P swfUrl=http://stream.senape.tv/scripts/player.swf pageUrl=http://www.smtvsanmarino.sm/programmi/web-tv
