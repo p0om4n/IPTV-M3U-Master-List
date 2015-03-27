@@ -119,6 +119,17 @@
 <channels>
 
 <channel>
+     <name>[COLOR lime]MARKS MUSIC VIDEOS[/COLOR]</name>
+   <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+    <externallink>http://dl.dropboxusercontent.com/s/c4los88jf691zxz/MUSIC%20VIDEO.XML?dl=0</externallink>
+</channel>
+   </channels>   
+
+<channels>
+
+<channel>
      <name>[COLOR lime]World Radio (ZELEZN)[/COLOR]</name>
    <thumbnail>http://www.rizopoulospost.com/wp-content/uploads/2013/12/live-radio.png</thumbnail>
 <fanart>http://www.earthtimes.org/newsimage/world-radio-day-2013.jpg</fanart>
