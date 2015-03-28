@@ -8,64 +8,84 @@ https://www.facebook.com/pages/Moneysports-1/771853449596764
 #EXTINF:-1,[COLOR red]*********************************************************************************************************[/COLOR]
 https://www.facebook.com/pages/Moneysports-1/771853449596764
  
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",[COLOR red]20.45 eur SPAIN VS UKRAINE[/COLOR]
+#EXTINF:-1 group-title=" 18.00 eur ISRAELE - GALLES ",[COLOR green]18.00 eur ISRAELE VS WALES[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",diema bg
-http://w3.drundoo.com:81/playlist-Diema=6.m3u8
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",futboll 1 ukr ace
+#EXTINF:-1 group-title=" 18.00 eur ISRAELE - GALLES ",sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 18.00 eur ISRAELE - GALLES ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.00 eur ISRAELE - GALLES ",sport ru
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
+ 
+#EXTINF:-1 group-title=" 18.00 itaB VICENZA - CARPI ",[COLOR green]18.00 itaB VICENZA VS CARPI[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 itaB VICENZA - CARPI ",supersport 3 al
+http://zhuki.herokuapp.com/live/741/index.m3u8
+ 
+#EXTINF:-1 group-title=" 18.15 esp2 RECREATIVO - BETIS ",[COLOR green]18.15 esp2 RECREATIVO VS BETIS[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.15 esp2 RECREATIVO - BETIS ",la sexsta es
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ 
+#EXTINF:-1 group-title=" 18.30 motogp QUAL. QUATAR ",[COLOR green]18.30 motogp QUAL. QUATAR[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.30 motogp QUAL. QUATAR ",espn 3 la
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 20.00 esp2 LAS PALMAS - PONFERRADINA ",[COLOR green]20.00 esp2 LAS PALMAS VS PONFERRADINA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.00 esp2 LAS PALMAS - PONFERRADINA ",tv canaria es
+rtmp://$OPT:rtmp-raw=rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+ 
+#EXTINF:-1 group-title=" 20.00 bra ITUANO - PORTUGUESA ",[COLOR green]20.00 bra ITUANO VS PORTUGUESA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.00 bra ITUANO - PORTUGUESA ",espn 3 la
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",[COLOR green]20.45 eur BULGARIA VS ITALY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",rai1 it
+http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",rai1 it_2
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",futboll 1 ukr ace
 acestream://c5ed2dd6a1842fc6ec04a37227efbb1134a080be
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",idman tv Az
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",irib 3 ir
-rtmp://edge4.live.irib.ir/etv3/irib3-3
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",setanta eurasia
-http://80.77.52.6:4314/udp/230.0.4.1:12345
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",sky sports 5 uk
-rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",sport 1 ru
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 eur ESPANA-UKRAINA ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur BULGARIA - ITALY ",supersport 4 al
+http://zhuki.herokuapp.com/live/743/index.m3u8
  
-#EXTINF:-1 group-title=" 20.45 eur LIECHT-AUSTRIA ",[COLOR red]20.45 eur LIECHT vs AUSTRIA[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eur ANDORRA - BOSNIA HERZEGOVINA ",[COLOR green]20.45 eur ANDORRA - BOSNIA HERZEGOVINA[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur LIECHT-AUSTRIA ",orf 1 au
-rtmp://77.243.11.114:1935/live/orf1.stream
+#EXTINF:-1 group-title=" 20.45 eur ANDORRA - BOSNIA HERZEGOVINA ",sport ru
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
  
-#EXTINF:-1 group-title=" 20.45 eur MOLDOVA-SWEDEN ",[COLOR red]20.45 eur MOLDOVA vs SWEDEN[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eur BELGIO - CIPRO ",[COLOR green]20.45 eur BELGIO VS CIPRO[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur MOLDOVA-SWEDEN ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur MOLDOVA-SWEDEN ",kanal 5 swe
-http://188.138.9.228:8005
+#EXTINF:-1 group-title=" 20.45 eur BELGIO - CIPRO ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
  
-#EXTINF:-1 group-title=" 20.45 eur MONTEN-RUSSIA ",[COLOR red]20.45 eur MONTEN vs RUSSIA[/COLOR]
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",[COLOR green]20.45 eur NETHERLANDS VS TURKEY[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur MONTEN-RUSSIA ",russia 1
-http://194.190.78.230/output/russia1/playlist.m3u8
- 
-#EXTINF:-1 group-title=" 20.45 eur SLOVAK-LUXEMB ",[COLOR red]20.45 eur SLOVAKIA vs LUXEMB[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur SLOVAK-LUXEMB ",futboll 2 ukr ace
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",futboll 2 ukr ace
 acestream://32e65d794a9667c207f802b63d880e6294aa7f63
-#EXTINF:-1 group-title=" 20.45 eur SLOVAK-LUXEMB ",rtl 2 lux
-rtmp://wowza01.newmedia.lu/channel2/live
- 
-#EXTINF:-1 group-title=" 20.45 eur SWITZE-ESTONIA ",[COLOR red]20.45 eur SWITZE-ESTONIA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur SWITZE-ESTONIA ",srf 2
-rtmp://77.243.11.114:1935/live/srf2.stream
-#EXTINF:-1 group-title=" 20.45 eur SWITZE-ESTONIA ",etv estonia
-rtmp://193.40.133.138/live/etv
- 
-#EXTINF:-1 group-title=" 20.45 eur ENGLAND-LITHUANIA ",[COLOR red]20.45 eur ENGLAND-LITHUANIA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur ENGLAND-LITHUANIA ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur ENGLAND-LITHUANIA ",itv 1
-http://82.135.224.134:80/udp/239.100.3.6:1234
- 
-#EXTINF:-1 group-title=" 20.45 eur SLOVENIA-S.MARINO ",[COLOR red]20.45 eur SLOVENIA-S.MARINO[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur SLOVENIA-S.MARINO ",rtv san marino
-rtmp://194.116.72.52/webtv_live4/0QBXFQ2L0I5P swfUrl=http://stream.senape.tv/scripts/player.swf pageUrl=http://www.smtvsanmarino.sm/programmi/web-tv
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",idman tv Az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",kanal 9 swe
+http://188.138.9.228:8009
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",russia 2
+http://194.190.78.230/output/russia2/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",setanta eurasia
+http://80.77.52.6:4314/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",show tv tr
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/showtv/ playpath=mp4:showtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=showtv
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur NETHERLANDS - TURKEY ",espn+ br
+rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/
