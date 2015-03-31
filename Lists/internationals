@@ -8,90 +8,83 @@ https://www.facebook.com/pages/Moneysports-1/771853449596764
 #EXTINF:-1,[COLOR red]*********************************************************************************************************[/COLOR]
 https://www.facebook.com/pages/Moneysports-1/771853449596764
  
-#EXTINF:-1 group-title=" 18.00 eur GEORGIA - GERMANY ",[COLOR yellow]18.00 eur GEORGIA - GERMANY[/COLOR]
+#EXTINF:-1 group-title=" 18.00 fri SWITZERLAND - UNITED STATES ",[COLOR red]18.00 fri SWITZERLAND - UNITED STATES[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 eur GEORGIA - GERMANY ",1 tv georgia
-rtmp://208.75.229.59:1935/1tv/ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://streema.com/tv/1TV playpath=1tv1
-#EXTINF:-1 group-title=" 18.00 eur GEORGIA - GERMANY ",sport tv 1 pt
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 eur GEORGIA - GERMANY ",diema bg
-http://w3.drundoo.com:81/playlist-Diema=6.m3u8
-#EXTINF:-1 group-title=" 18.00 eur GEORGIA - GERMANY ",futboll 1 ukr ace
-acestream://c5ed2dd6a1842fc6ec04a37227efbb1134a080be
-#EXTINF:-1 group-title=" 18.00 eur GEORGIA - GERMANY ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 18.00 fri SWITZERLAND - UNITED STATES ",srf 2
+rtmp://77.243.11.114:1935/live/srf2.stream
+#EXTINF:-1 group-title=" 18.00 fri SWITZERLAND - UNITED STATES ",srf 2_2
+rtmp://217.145.104.7:1935/live/srf2.stream
+#EXTINF:-1 group-title=" 18.00 fri SWITZERLAND - UNITED STATES ",srf 2_3
+rtmp://79.125.118.16:1935/live/srf2.stream
  
-#EXTINF:-1 group-title=" 18.00 eur N.IRELAND - FINLAND ",[COLOR yellow]18.00 eur N.IRELAND - FINLAND[/COLOR]
+#EXTINF:-1 group-title=" 19.30 fri SWEDEN - IRAN ",[COLOR red]19.30 fri SWEDEN - IRAN[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 eur N.IRELAND - FINLAND ",sport ru
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 18.00 eur N.IRELAND - FINLAND ",setanta eurasia
-http://80.77.52.6:4314/udp/230.0.4.1:12345
-#EXTINF:-1 group-title=" 18.00 eur N.IRELAND - FINLAND ",sky sports 5 uk
+#EXTINF:-1 group-title=" 19.30 fri SWEDEN - IRAN ",irib 3 ir
+rtmp://edge4.live.irib.ir/etv3/irib3-3
+ 
+#EXTINF:-1 group-title=" 20.15 fri LUXEMBOURG - TURKEY ",[COLOR red]20.15 fri LUXEMBOURG - TURKEY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.15 fri LUXEMBOURG - TURKEY ",rtl 2 lux
+rtmp://wowza01.newmedia.lu/channel2/live
+#EXTINF:-1 group-title=" 20.15 fri LUXEMBOURG - TURKEY ",show tv tr
+rtmp://edge04-09.az.myvideo.az/dvrh264/showtv/ playpath=mp4:showtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=showtv
+ 
+#EXTINF:-1 group-title=" 20.30 fri AUSTRIA - BOSNIA HERZEGOVINA ",[COLOR red]20.30 fri AUSTRIA - BOSNIA HERZEGOVINA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.30 fri AUSTRIA - BOSNIA HERZEGOVINA ",orf 1 au
+rtmp://77.243.11.114:1935/live/orf1.stream
+#EXTINF:-1 group-title=" 20.30 fri AUSTRIA - BOSNIA HERZEGOVINA ",orf 1 au_2
+rtmp://79.125.118.16:1935/live/orf1.stream
+#EXTINF:-1 group-title=" 20.30 fri AUSTRIA - BOSNIA HERZEGOVINA ",orf 1 au_3
+rtmp://217.145.104.7:1935/live/orf1.stream
+ 
+#EXTINF:-1 group-title=" 20.45 eur ISRAELE - BELGIUM ",[COLOR red]20.45 eur ISRAELE - BELGIUM[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 eur ISRAELE - BELGIUM ",sky sports 5 uk
 rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
- 
-#EXTINF:-1 group-title=" 18.00 eur SCOTLAND - GIBRALTAR ",[COLOR yellow]18.00 eur SCOTLAND - GIBRALTAR[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 eur SCOTLAND - GIBRALTAR ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 eur SCOTLAND - GIBRALTAR ",sky sports 1 uk
-http://sipragezabava.com/live/sky1
- 
-#EXTINF:-1 group-title=" 18.00 eur ALBANIA - ARMENIA ",[COLOR yellow]18.00 eur ALBANIA - ARMENIA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.00 eur ALBANIA - ARMENIA ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 18.15 esp2 R.ZARAGOZA - ALCORON ",[COLOR yellow]18.15 esp2 R.ZARAGOZA - ALCORON[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.15 esp2 R.ZARAGOZA - ALCORON ",la sexsta es
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
- 
-#EXTINF:-1 group-title=" 19.00 esp2 BARCELONA II - TENERIFE ",[COLOR yellow]19.00 esp2 BARCELONA II - TENERIFE[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 19.00 esp2 BARCELONA II - TENERIFE ",tv canaria es
-rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
- 
-#EXTINF:-1 group-title=" 20.45 ami FRANCE - DENMARK ",[COLOR yellow]20.45 ami FRANCE - DENMARK[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 ami FRANCE - DENMARK ",sport tv 2 pt
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
- 
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",[COLOR yellow]20.45 eur IRELAND - POLAND[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",futboll 2 ukr ace
-acestream://32e65d794a9667c207f802b63d880e6294aa7f63
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",nova sport bg
-http://w3.drundoo.com:81/playlist-NOVAsport=6.m3u8
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",rte 2 irl
-http://212.250.46.35:4252/bysid/9602
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",setanta eurasia
-http://80.77.52.6:4314/udp/230.0.4.1:12345
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",sky sports 5 uk
-rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 eur IRELAND - POLAND ",sport tv 1 pt
+#EXTINF:-1 group-title=" 20.45 eur ISRAELE - BELGIUM ",sport tv 1 pt
 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur ISRAELE - BELGIUM ",polsat sport news
+http://194.116.252.129:4022/udp/239.239.2.166:1234
  
-#EXTINF:-1 group-title=" 20.45 eur HUNGARY - GREECE ",[COLOR yellow]20.45 eur HUNGARY - GREECE[/COLOR]
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",[COLOR red]20.45 fri ITALY - ENGLAND[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur HUNGARY - GREECE ",sport ru
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.45 eur HUNGARY - GREECE ",sport tv 3 pt
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",rai1 it
+http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",rai1 it_2
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport de
+rtmp://77.243.11.114:1935/live/eurosport.stream
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport de_2
+rtmp://217.145.104.7:1935/live/eurosport.stream
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport de_3
+rtmp://79.125.118.16:1935/live/eurosport.stream
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport ge
+http://80.77.52.6:4314/udp/230.0.3.11:12345
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport 2 ge
+http://80.77.52.6:4314/udp/230.0.3.12:12345
+#EXTINF:-1,group-title=" 20.45 fri ITALY - ENGLAND ",ITV 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+
  
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",[COLOR yellow]20.45 eur PORTUGAL - SERBIA[/COLOR]
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",[COLOR red]20.45 fri NETHERLANDS - SPAIN[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",futboll 1 ukr ace
-acestream://c5ed2dd6a1842fc6ec04a37227efbb1134a080be
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",idman tv Az
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",diema bg
-http://w3.drundoo.com:81/playlist-Diema=6.m3u8
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",kanal 9 swe
-http://188.138.9.228:8009
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",russia 2
-http://194.190.78.230/output/russia2/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 eur PORTUGAL - SERBIA ",sky sports 2 uk
-http://sipragezabava.com/live/sky2
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",tv3 sport 1 ace
+acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",polsat sport
+http://194.116.252.129:4022/udp/239.239.2.84:1234
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",silk sport 1 ge
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",silk sport 1 ge_2
+http://80.77.52.6:4314/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",espn 2 la
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?byluca
+#EXTINF:-1 group-title=" 20.45 fri NETHERLANDS - SPAIN ",espn HD la
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?byluca
+ 
+#EXTINF:-1 group-title=" 20.45 SLOVAKIA - CZECH REP. ",[COLOR red]20.45 SLOVAKIA - CZECH REP.[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 20.45 SLOVAKIA - CZECH REP. ",espn 3 la
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?byluca
