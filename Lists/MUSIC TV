@@ -1,0 +1,77 @@
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR red]LIVE MUSIC TV[/COLOR]
+https://www.facebook.com/pages/Moneysports-1/771853449596764
+
+
+#EXTINF:-1 tvg-logo="MTV_Brasil.png" group-title="Brasil",MTV Brasil
+rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mtv.html live=1
+ 
+#EXTINF:-1 tvg-logo="MTV2.png" group-title="SPAIN",MTV Spain
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="mtvrocks.png" group-title="SPAIN", MTV Rocks
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+ 
+#EXTINF:-1 tvg-logo="MTVDance.png" group-title="SPAIN", MTV Dance
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+ 
+#EXTINF:-1 tvg-logo="mtvhits.png" group-title="SPAIN", MTV Hits
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+ 
+#EXTINF:-1 tvg-logo="VH1Classic.png" group-title="SPAIN",VH1 Classic
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+ 
+#EXTINF:-1 tvg-logo="MTVLiveHD.png" group-title="SPAIN", MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="Telehit.png" group-title="SPAIN", TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="MTV_Brasil.png" group-title="SPAIN", VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+ 
+#EXTINF:-1 tvg-logo="vh1large.png" group-title="UK",VH1+1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+ 
+#EXTINF:-1 tvg-logo="Clubland.png" group-title="UK",Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="DreamTV.png" group-title="UK",DREAM TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Nowmusic.png" group-title="UK",NOW Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="M1station.png" group-title=“Brasil”,M1 STATION
+rtmp://server5.com.br/8164 playpath=8164  swfUrl=http://server5.com.br/mediacp/system/misc/flvplayer/FLVplayer_Custom.swf  pageUrl=http://www.assistirtvgratisonline.org/canais/m1-station.ph
+ 
+#EXTINF:-1 tvg-logo="1hd.png" group-title="Russia",1HD
+rtmp://109.239.142.62/live/livestream3
+ 
+#EXTINF:0 tvg-logo="RussianMusicBox" group-title="Russia",Musicbox Russia
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="RussianMusicBox.png" group-title="Russia",Musicbox
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Eskarock.png" group-title="Romenia",ESKA ROCK TV
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+ 
+#EXTINF:-1 tvg-logo="vevohd.png" group-title="US",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+ 
+#EXTINF:-1 tvg-logo="kisstv.png" group-title="US",Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ 
+#EXTINF:-1 tvg-logo="FreshTV.png" group-title="GERMAN",FRESHTV
+rtmp://www.planeta-online.tv:1936/live/channel_4
+ 
+#EXTINF:-1 tvg-logo="eska_best_music_tv_pl.png" group-title="Poland",Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+ 
+#EXTINF:-1 tvg-logo="voxmusic.png" group-title="Russia",VOX Music HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+
