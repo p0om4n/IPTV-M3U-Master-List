@@ -65,7 +65,7 @@ rtmp://79.125.118.16:1935/live/eurosport.stream
 http://80.77.52.6:4314/udp/230.0.3.11:12345
 #EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",eurosport 2 ge
 http://80.77.52.6:4314/udp/230.0.3.12:12345
-#EXTINF:-1,group-title=" 20.45 fri ITALY - ENGLAND ",ITV 1
+#EXTINF:-1 group-title=" 20.45 fri ITALY - ENGLAND ",ITV 1
 http://82.135.224.134:80/udp/239.100.3.6:1234
 
  
