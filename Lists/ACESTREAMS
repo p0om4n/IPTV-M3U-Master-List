@@ -1,0 +1,126 @@
+#EXTINF:-1,[COLOR red]ACESTREAM LINKS[/COLOR][COLOR yellow]**********************************************************[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,[COLOR yellow]THESE LINKS NEED THE ADDON P2P-STREAMS [/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+#EXTINF:-1,[COLOR yellow]THEN JUST CLICK THE LINK AND ENJOY ;-) [/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+ 
+#EXTINF:-1,OTE Sport 1HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://1bf854b67e052abe65415624e7c1a7bb892d4b22&mode=1&name=acestream+OTE Sport 1HD
+ 
+ 
+#EXTINF:-1,OTE Sport 2HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://291da73ba7690f33954b767378e3f56076043a79&mode=1&name=acestream+OTE Sport 2HD
+#EXTINF:-1,OTE Sport 3HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://48c6a54d9309dc2cd1bdafe96bc490982648780b&mode=1&name=acestream+OTE Sport 3HD
+#EXTINF:-1,OTE Sport 4HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://9c19b0ef4dd5f4af5e4be2c54f02a84b8878331c&mode=1&name=acestream+OTE Sport 4HD
+#EXTINF:-1,OTE Sport 5HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://53db4eabf9b77f3cd0e0ab5d9cb1d6c9419e0d10&mode=1&name=acestream+OTE Sport 5HD
+#EXTINF:-1,OTE Sport 6HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://9e7ff255784280cf59b1bec7c5166f3ac1ad0321&mode=1&name=acestream+OTE Sport 6HD
+#EXTINF:-1,Polsat Sport
+plugin://plugin.video.p2p-streams/?url=acestream://6de5e5758ac955412e8149412d2d3b0db4f2e83a&mode=1&name=acestream+POLSAT SPORT
+ 
+#EXTINF:-1,Arena Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://ed3c99ff1e6d3a35b4df19560722fcffea850378&mode=1&name=acestream+ARENA 1
+#EXTINF:-1,Arena Sport 2
+plugin://plugin.video.p2p-streams/?url=acestream://42be01275c32742099e2d5915484614d5fdde33a&mode=1&name=acestream+ARENA 2
+#EXTINF:-1,Arena Sport 3
+plugin://plugin.video.p2p-streams/?url=acestream://e2176c590d3d36b81586748746389615485325c1&mode=1&name=acestream+ARENA 3
+#EXTINF:-1,Arena Sport 4
+plugin://plugin.video.p2p-streams/?url=acestream://1db78c31b71b5ee26236b2d881a9bd9a02aabbf3&mode=1&name=acestream+ARENA 4
+#EXTINF:-1,BT Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://94cf00ad0fbae701127270ac08a8cd1a23883448&mode=1&name=acestream+BT SPORTS 1
+ 
+#EXTINF:-1,BT Sport 2
+plugin://plugin.video.p2p-streams/?url=acestream://a7c44134c28dd2183d341f52044326c2c061f1d6&mode=1&name=acestream+BT SPORTS 2
+ 
+#EXTINF:-1,BoxNation
+plugin://plugin.video.p2p-streams/?url=acestream://ea376ca535922f820d78cb0957b72095d19ee86a&mode=1&name=acestream+boxnation
+ 
+#EXTINF:-1,Sky Sports 1
+plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1
+#EXTINF:-1,Sky Sports 2
+plugin://plugin.video.p2p-streams/?url=acestream://c36cfe788f185f7e7238b021e738951628336cfe&mode=1&name=acestream+SKY SPORTS 2
+ 
+#EXTINF:-1,Sky Sports 3
+plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3
+ 
+#EXTINF:-1,Sky Sports 4
+plugin://plugin.video.p2p-streams/?url=acestream://203e4da82989736f8c324d588acc5d622ff6bfd3&mode=1&name=acestream+SKY SPORTS 4
+ 
+#EXTINF:-1,Sky Sports 5
+plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5
+ 
+#EXTINF:-1,Sky Sports F1
+plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1
+ 
+#EXTINF:-1,PREMIER SPORTS
+plugin://plugin.video.p2p-streams/?url=acestream://9d21d20f6423387ec87463d7ac9b3c9196e7d4ed&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,Setanta Sports + HD
+plugin://plugin.video.p2p-streams/?urlacestream://088fb3bfdc2ecd527c2ccdbdc06a4a1d0edb92db&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,Sky Sport 1HD Italia
+plugin://plugin.video.p2p-streams/?urlacestream://35effe2fb65eb170d0275ceb38c99b8cc9d1cca7&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,Setanta Sports
+plugin://plugin.video.p2p-streams/?url=acestream://d5d6cc87a90d08fde0b3d072a7e703de13c15878&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,CMore Live
+plugin://plugin.video.p2p-streams/?url=acestream://20b57889e46740135bdc62ac9f4f27789a221d8d&mode=1&name=acestream+moneysports
+ 
+ 
+#EXTINF:-1,Sport1
+plugin://plugin.video.p2p-streams/?url=acestream://39236bbd5a5c713953ac27de1692d56e4323e6a9&mode=1&name=acestream+moneysports
+ 
+ 
+#EXTINF:-1,Fox Sports 2 NDL
+plugin://plugin.video.p2p-streams/?url=acestream://9f69c544d2b91e1beee94972bc943ce9fe1a40f0a&mode=1&name=acestream+fox sports 2 ndl
+ 
+#EXTINF:-1,Sport Klub 1
+plugin://plugin.video.p2p-streams/?url=acestream://5502873157562d1eb6c9344ed3eecc20f54a8743&mode=1&name=acestream+sport klub1
+ 
+#EXTINF:-1,Sport Klub 2
+plugin://plugin.video.p2p-streams/?url=acestream://bdeb795fcb5836e31d7c3944aa286048d1cc608b&mode=1&name=acestream+SK2
+ 
+#EXTINF:-1,Sport Klub 3
+plugin://plugin.video.p2p-streams/?url=acestream://344b3f00db6423245f73876bf687dbade8029838&mode=1&name=acestream+SK3
+ 
+#EXTINF:-1,Viasat Sport
+plugin://plugin.video.p2p-streams/?url=acestream://0fe3ba8cc63bed1d0f4175be69478dc92d8960b7&mode=1&name=acestream+VIASAT SPORTS
+ 
+#EXTINF:-1,Viasat Sport Baltic
+plugin://plugin.video.p2p-streams/?url=acestream://5d7c874c2b58e1584dbd75c5bee1c51cfb021a3d&mode=1&name=acestream+VIASAT SPORTS BALTIC
+#EXTINF:-1,Viasat Golf
+plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5&mode=1&name=acestream+VIASAT SPORTS GOLF
+#EXTINF:-1,Viasat Sport HD
+plugin://plugin.video.p2p-streams/?url=acestream://1f4d407e1895e164665ee83a47bed39bd5bd7add&mode=1&name=acestream+VIASAT SPORTS HD
+ 
+#EXTINF:-1,Viasat Sport Sverige
+plugin://plugin.video.p2p-streams/?url=acestream://bf46d9e9de30041ee2609a0df6b67bc79ba8f67e&mode=1&name=acestream+VIASAT SPORTS SVERIGE
+ 
+#EXTINF:-1,Viasat TV3 Sport 1 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e&mode=1&name=acestream+VIASAT TV3 1
+ 
+#EXTINF:-1,Viasat TV3 Sport 2 DN [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://53cdbdf779dea70e8e452b87b7d57f06e50c0f3c&mode=1&name=acestream+VIASAT TV3 2
+ 
+#EXTINF:-1,Nova Sport BG
+plugin://plugin.video.p2p-streams/?url=acestream://cfcda8b9579f72f7e9fadffddb1f9b0d9714d20d&mode=1&name=acestream+nova sport
+ 
+#EXTINF:-1,Sport 1 Hu
+plugin://plugin.video.p2p-streams/?url=acestream://728f78697941169b00268c022ac770cc2989f563&mode=1&name=acestream+sport1
+ 
+#EXTINF:-1,Sport 2 Hu
+plugin://plugin.video.p2p-streams/?url=acestream://398c39c8b825c914fc86f225b43b60009eca9a44&mode=1&name=acestream+sport2
+ 
+#EXTINF:-1,Sport 5
+plugin://plugin.video.p2p-streams/?url=acestream://d069e6454f1b293e4b22fb0d9e42ad077f728d9c&mode=1&name=acestream+sport 5
+ 
+#EXTINF:-1,Sportmania Es
+plugin://plugin.video.p2p-streams/?url=acestream://642a383e03713b3e281ae6c5ea7fe3d03a1543c6&mode=1&name=acestream+sportsmania
+ 
+#EXTINF:-1,NBA TV
+plugin://plugin.video.p2p-streams/?url=acestream://cc8a9dfb31323ba2c2c3e337994a53be813b1686&mode=1&name=acestream+NBATV
