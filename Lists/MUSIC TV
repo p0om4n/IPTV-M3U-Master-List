@@ -74,4 +74,68 @@ rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1 tvg-logo="voxmusic.png" group-title="Russia",VOX Music HD
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 
+#EXTINF:-1 tvg-name="Bandamax_[U.S.]" tvg-logo="Bandmax.png" group-title="MUSIC",Bandmax HD
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="capital.png" group-title="MUSIC",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-name="aka" group-title="MUSIC" tvg-logo="aka.png",Channel AKA
+http://ngx.cr2.streamzilla.xlcdn.com/session/6e1c248e974b5d3c0b85c2f389f9c1d0/sz/AATW/wowza4/live/akanew/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="CLUBLAND.png" group-title="MUSIC",Clubland TV
+http://ngx.cr2.streamzilla.xlcdn.com/session/677c678f7e485d1d971abaa78807c549/sz/AATW/wowza4/live/clublandtv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="MTV.png" group-title="MUSIC", MTV Europe
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="mtvlive.png" group-title="MUSIC",MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
+ 
+#EXTINF:-1 tvg-name="MTV_Hits" tvg-logo="mtvhits.png" group-title="MUSIC",MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/chunklist.m3u8?utcstart=1425964607.5274911
+ 
+#EXTINF:-1 tvg-name="MTV_Dance" tvg-logo="mtvdance.png" group-title="MUSIC",MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/chunklist.m3u8?utcstart=1425964714.5193388
+ 
+#EXTINF:-1 tvg-name="MTV_Rocks" tvg-logo="mtvrock.png" group-title="MUSIC",MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/chunklist.m3u8?utcstart=1425964738.5959589
+ 
+#EXTINF:-1 tvg-name="4Music" tvg-logo="4MUSIC.png" group-title="MUSIC",4Music HD
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="nowmusic.png" group-title="MUSIC",Now Thats What I Call Music Channel
+rtmp://wos.cr2.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=nowmusic?token=06d0d86d02b92eea7942b10aa10c41cb&time=550e3698 swfUrl=http://www.nowmusic.com/wp-content/themes/nowv120/livestream/embed/mediaplayer.swf pageUrl=http://www.nowmusic.com/watch/
+ 
+#EXTINF:-1 tvg-name="Heart" tvg-logo="HEART.png" group-title="MUSIC",Heart TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart
+ 
+#EXTINF:-1 tvg-name="Pop" tvg-logo="pop.png" group-title="MUSIC",Planet POP
+http://cdn.simplestream.com/D6I0S4IWX8O1NJDNBTRE/2/chunklist-limelight.m3u8
+ 
+#EXTINF:-1 tvg-name="Heat" tvg-logo="heat.png" group-title="MUSIC",[I]Channel V[/I]
+rtmp://cp133304.live.edgefcs.net/live/ Playpath=channelv2@62057 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://1tvlive.in/channel-v-india/ timeout=1
+ 
+#EXTINF:-1 tvg-name="Kix!" tvg-logo="kix.png" group-title="MUSIC",[I]Kix! TV[/I]
+http://wpc.ac3a.edgecastcdn.net/80AC3A/001/hls/m3u8/kix.m3u8
+ 
+#EXTINF:-1 tvg-name="Kerrang!" tvg-logo="kerrang.png" group-title="MUSIC",KERRANG TV
+ 
+#EXTINF:-1 tvg-name="Magic" tvg-logo="magic.png" group-title="MUSIC",Magic.TV
+ 
+#EXTINF:-1 tvg-name="Smash_Hits!" tvg-logo="smashhits.png" group-title="MUSIC",[I]Smash Hits![/I]
+ 
+#EXTINF:-1 tvg-name="The_Box" tvg-logo="thebox.png" group-title="MUSIC",The Box
+ 
+#EXTINF:-1 tvg-name="Telehit" tvg-logo="telehit.png" group-title="MUSIC",TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
+ 
+#EXTINF:-1 tvg-name="VH1" tvg-logo="VH1.png group-title="MUSIC",VH1 UK
+rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="VH1.png" group-title="MUSIC",[I]VH1 EUROPE[/I]
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="VH1CLASSIC.png group-title="MUSIC",VH1 Classic
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/chunklist.m3u8?utcstart=1425965374.0639367
+
 
