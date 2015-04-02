@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
+<item>
+<fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
+</item>
+
+
+
 <channels>
 
 <channel>
@@ -99,7 +105,6 @@
 </channel>
    </channels>
 
-   
 <channels>
 
 <channel>
@@ -111,7 +116,6 @@
 </channel>
    </channels>
 
-   
 <channels>
 
 <channel>
@@ -135,7 +139,6 @@
 </channel>
    </channels>   
 
-   
 <channels>
 
 <channel>
@@ -148,8 +151,6 @@
    </channels>
 
 
-   
-   
 <channels>
 
 <channel>
@@ -160,13 +161,14 @@
     <externallink>http://is.gd/mattsradiolist</externallink>
 </channel>
    </channels>   
+
    
 <channels>
 
 <channel>
      <name>[COLOR lime]MARWAN Arabic list[/COLOR]</name>
-   <thumbnailhttp://th01.deviantart.net/fs71/PRE/f/2010/325/0/8/arabic_logo___abdul_faqih___2_by_viqh-d33camo.jpg</thumbnail>
-<fanart>http://payload37.cargocollective.com/1/0/128/3055099/arabic029_905.jpg</fanart>
+   <thumbnail>https://sites.google.com/site/kodilista/11064066_10204995825992718_23126857_o.jpg?attredirects=0&d=1</thumbnail>
+<fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
 <link>http://ignoreme</link>
     <externallink>https://gist.githubusercontent.com/marwanwardy/f2c1275ff51ba751be95/raw/1c7b3d58c5af26f42bdcf7faae368730ed601248/Marwan%20arabic%20list.m3u</externallink>
 </channel>
@@ -204,7 +206,6 @@
     <externallink></externallink>
 </channel>
    </channels>
-
 
 
 
