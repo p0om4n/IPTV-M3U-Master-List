@@ -1,73 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
+
+#EXTINF:-1,Sky Sports 1
+plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1MS</link>
+
+#EXTINF:-1,Sky Sports 2
+plugin://plugin.video.p2p-streams/?url=acestream://385d091266bd417ac855161cfce393adee85f0af&mode=1&name=acestream+SKY SPORTS 2MS</link>
+
+#EXTINF:-1,Sky Sports 3
+plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3MS</link>
+
+#EXTINF:-1,Sky Sports 4
+plugin://plugin.video.p2p-streams/?url=acestream://1949cd0059457507c0e9759b736831983f29ae56&mode=1&name=acestream+SKY SPORTS 4MS</link>
+
+#EXTINF:-1,Sky Sports 5
+plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5MS</link>
+
+#EXTINF:-1,Sky Sports F1
+plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1MS
 
 
-<title>MONEY SPORTS</TITLE>
 
 
 
 
-<item>
-<title><COLOR blue> </COLOR></title>
-</item>
-
-
-	
 
 
 
 
-<item>
-<title>Sky Sports 1 [COLOR white](P2P)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1MS</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 [COLOR white](P2P)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://385d091266bd417ac855161cfce393adee85f0af&mode=1&name=acestream+SKY SPORTS 2MS</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 [COLOR white](P2P)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3MS</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 [COLOR white](P2P)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://1949cd0059457507c0e9759b736831983f29ae56&mode=1&name=acestream+SKY SPORTS 4MS</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 5 [COLOR white](P2P)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5MS</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>Sky Sports F1 [COLOR white](P2P)[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1MS</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>SKY SPORTS NEWS</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sports 1 (Currently Down - Try the link further down</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
