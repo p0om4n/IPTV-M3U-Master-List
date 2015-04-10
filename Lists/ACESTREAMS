@@ -18,11 +18,11 @@ plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf0
 #EXTINF:-1,Sky Sports F1
 plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1MS
 
+#EXTINF:-1,BT SPORTS 1
+plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTMSSPORTS1
 
-
-
-
-
+#EXTINF:-1,VIASAT GOLF
+plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5&mode=1&name=acestream+VIASATMSGOLF
 
 
 
