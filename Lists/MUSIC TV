@@ -5,6 +5,24 @@
 https://www.facebook.com/pages/Moneysports-1/771853449596764
 
 
+#EXTINF:-1,FLAVA
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:flava/playlist.m3u8
+
+#EXTINF:-1,HEARTV
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:heartv/playlist.m3u8
+
+#EXTINF:-1,PLANETPOP
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:planetpop/playlist.m3u8
+
+#EXTINF:-1,THE_BOX
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:the_box/playlist.m3u8
+
+#EXTINF:-1,BLISS
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:bliss/playlist.m3u8
+
+#EXTINF:-1,CAPITALTV
+http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:capitaltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="MTV_Brasil.png" group-title="Brasil",MTV Brasil
 rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mtv.html live=1
  
