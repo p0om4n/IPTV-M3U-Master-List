@@ -47,6 +47,13 @@
 </item>
 
 <item>
+<title>LIVE CRICKET </title>
+<link>rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2</link>
+<thumbnail>http://1.bp.blogspot.com/-2Im5-TqjY_k/U11gODuOJ7I/AAAAAAAADoU/xTw86iZtXHU/s1600/StylzzZ+%2528445%2529.png</thumbnail>
+<fanart>http://www.dream-box.tv/_Media/Images/ProjectBlock/Works/Logos/SportsTVHD/Big1.jpg</fanart>
+</item>
+
+<item>
 <title>RANDOM SPORTS</title>
 <link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
