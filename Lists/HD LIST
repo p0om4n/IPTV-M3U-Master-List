@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>RNDOM SPORTS</title>
+<title>RANDOM SPORTS</title>
 <link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
 <name>path</name>
