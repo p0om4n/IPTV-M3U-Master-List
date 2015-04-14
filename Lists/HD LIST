@@ -141,4 +141,51 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-rtmp://watch1.streamlive.to:1935/edge/_definst_/?xs=_we_MGk2ZTF3MnE0bm9uMDMxfDE0MjkwMTg2MDd8ODguMTA3LjE0NS4yMjZ8NTUyZDE2ODdhNTQ3N3w5M2NiMTQwMGY3ZWQ0ZmQ2NzM3ZDA2OTAxYzliOWU4OWEwMTY2NWUw<playpath>0i6e1w2q4non031 <swfUrl>http://www.streamlive.to/ads/streamlive.swf <pageUrl>http://www.streamlive.to/view/67439/24x7_WWE_NETWORK_LIVE_STREAM-live-stream-channel
+
+<item>
+<title>RANDOM SPORTS</title>
+<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<regex>
+<name>path</name>
+<page>http://www.streamlive.to/view/70294/Liverpool_FC_TV-live-stream-channel-for-free</page>
+<expres>file: "(.*).flv</expres>
+</regex>
+<regex>
+<name>tok</name>
+<expres>token":"([^"]*)</expres>
+<page>$doregex[tokpg]</page>
+<referer>https://www.streamlive.to</referer>
+</regex>
+<regex>
+<name>tokpg</name>
+<expres>getJSON\("([^"]*)</expres>
+<page>http://www.streamlive.to/view/70294/Liverpool_FC_TV-live-stream-channel-for-free</page>
+</regex>
+<regex>
+<name>xs</name>
+<expres>/(\?xs=.*?)"</expres>
+<page>http://www.streamlive.to/view/70294/Liverpool_FC_TV-live-stream-channel-for-free</page>
+<rawpost>captcha=$doregex[answer]</rawpost>
+<referer>https://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+<ignorecache/>
+</regex>
+<regex>
+<name>answer</name>
+<expres>$pyFunction:($doregex[captcha])</expres>
+<page>http://www.streamlive.to/view/70294/Liverpool_FC_TV-live-stream-channel-for-free</page>
+</regex>
+<regex>
+<name>captcha</name>
+<expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xcaptcha</name>
+<expres>Question: (.*) =</expres>
+<page>http://www.streamlive.to/view/70294/Liverpool_FC_TV-live-stream-channel-for-free</page>
+<referer>http://www.streamlive.to</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
