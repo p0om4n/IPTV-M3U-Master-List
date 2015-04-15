@@ -33,7 +33,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://640eb065872ffd55431698b24d305
 
 
 #EXTINF:-1,ARENA SPORT 1
-plugin://plugin.video.p2p-streams/?url=acestream://c70805467a2451dfdaa2ce6e667c22ee455174e6&mode=1&name=acestream+ARENAMSSPORT 1ARENA SPORT 1
+plugin.video.p2p-streams/?url=acestream://c70805467a2451dfdaa2ce6e667c22ee455174e6&mode=1&name=acestream+ARENAMSSPORT 1ARENA SPORT 1
 
 #EXTINF:-1,ARENA SPORT 1 HD Croatia
 plugin://plugin.video.p2p-streams/?url=acestream://3755d3c9ffd4d01cc65c179777b147f82d6fd3a8&mode=1&name=acestream+ARENAMSSPORT 1 HD Croatia
