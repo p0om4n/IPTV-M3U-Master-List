@@ -21,8 +21,64 @@ plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db
 #EXTINF:-1,BT SPORTS 1
 plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTMSSPORTS1
 
+#EXTINF:-1,BT SPORTS 2
+plugin://plugin.video.p2p-streams/?url=acestream://420ad279e44eef83b36673f4352373869e86a322&mode=1&name=acestream+BTMSSPORTS2
+
+
 #EXTINF:-1,VIASAT GOLF
 plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5&mode=1&name=acestream+VIASATMSGOLF
+
+#EXTINF:-1,SKY SPORT (Italia)
+plugin://plugin.video.p2p-streams/?url=acestream://640eb065872ffd55431698b24d30593437275599&mode=1&name=acestream+SKYMSSPORT
+
+
+#EXTINF:-1,ARENA SPORT 1
+plugin://plugin.video.p2p-streams/?url=acestream://c70805467a2451dfdaa2ce6e667c22ee455174e6&mode=1&name=acestream+ARENAMSSPORT 1ARENA SPORT 1
+
+#EXTINF:-1,ARENA SPORT 1 HD Croatia
+plugin://plugin.video.p2p-streams/?url=acestream://3755d3c9ffd4d01cc65c179777b147f82d6fd3a8&mode=1&name=acestream+ARENAMSSPORT 1 HD Croatia
+
+#EXTINF:-1,ARENA SPORT 2
+plugin://plugin.video.p2p-streams/?url=acestream://9fd516db2196c14de75167d3e7d635b8d90b571c&mode=1&name=acestream+ARENAMSSPORT 2
+
+#EXTINF:-1,ARENA SPORT 2 HD Croatia
+plugin://plugin.video.p2p-streams/?url=acestream://1aeeb02d98bdc605e5303d0853d3d96674cc4477&mode=1&name=acestream+ARENAMSSPORT 2 HD Croatia
+
+#EXTINF:-1,ARENA SPORT 3
+plugin://plugin.video.p2p-streams/?url=acestream://10f5a884a83766445dcaad4066d3761d6b812386&mode=1&name=acestream+ARENAMSSPORT 3
+
+#EXTINF:-1,ARENA SPORT 3 HD Croatia
+plugin://plugin.video.p2p-streams/?url=acestream://4fe51412d33c9be200a92d70b812e0ebd124d891&mode=1&name=acestream+ARENAMSSPORT 3 HD Croatia
+
+#EXTINF:-1,ARENA SPORT 4
+plugin://plugin.video.p2p-streams/?url=acestream://2b4c08102cc44a17efa593df5bf79127a9eea16d&mode=1&name=acestream+ARENAMSSPORT 4
+
+#EXTINF:-1,ARENA SPORT 4 HD Croatia
+plugin://plugin.video.p2p-streams/?url=acestream://e34be62395a5b6a8d1092398327b8f2398bb9a05&mode=1&name=acestream+ARENAMSSPORT 4 HD Croatia
+
+#EXTINF:-1,SPORT KLUB 1 HRV
+plugin://plugin.video.p2p-streams/?url=acestream://83ec97d4100577497e59692103c02177068c7191&mode=1&name=acestream+SPORTMSKLUB 1 HRV
+
+#EXTINF:-1,SPORT KLUB 1 SRB
+plugin://plugin.video.p2p-streams/?url=acestream://ceb6c7f10f489f5aa9af28c793040be078f0e8dd&mode=1&name=acestream+SPORTMSKLUB 1 SRB
+
+#EXTINF:-1,SPORT KLUB 2 SRB
+plugin://plugin.video.p2p-streams/?url=acestream://570958d3b4d28d7b65c6c01161319872dca0e2fc&mode=1&name=acestream+SPORTMSKLUB 2 SRB
+
+#EXTINF:-1,SPORT KLUB 3 SRB
+plugin://plugin.video.p2p-streams/?url=acestream://4d84acdd898dbac42bf6ad0ca784580291341126&mode=1&name=acestream+SPORTMSKLUB 3 SRB
+
+#EXTINF:-1,EUROSPORT
+plugin://plugin.video.p2p-streams/?url=acestream://d687f141906095c604c75352d1869ef44deee5e1&mode=1&name=acestream+EUROSPORT
+
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.p2p-streams/?url=acestream://2612d3fe6119468b29a915aef76439f63c4a14fa&mode=1&name=acestream+EUROSPORTMS2
+
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.p2p-streams/?url=acestream://a5d60fcc92af846afb8b48cd559c299557450f3d&mode=1&name=acestream+EUROSPORTMS2
+
+#EXTINF:-1,EUROSPORT HD
+plugin://plugin.video.p2p-streams/?url=acestream://41a7039ac9f33f185d12e916626b1005e8e6f2c3&mode=1&name=acestream+EUROSPORTMSHD
 
 
 
